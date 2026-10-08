@@ -1,0 +1,1147 @@
+[
+    {
+        "category_fr": "Découpes & Taillages Professionnels",
+        "category_en": "Professional Cuts & Knife Techniques",
+        "term_count": 16,
+        "terms": [
+            {
+                "term_id": "METRO-GLOS-001",
+                "term_fr": "Brunoise",
+                "term_en": "Brunoise",
+                "definition_fr": "Dés de 1–2 mm.",
+                "definition_en": "1–2 mm dice."
+            },
+            {
+                "term_id": "METRO-GLOS-002",
+                "term_fr": "Ciselage",
+                "term_en": "Ciselage (fine chopping)",
+                "definition_fr": "Découpe très fine, souvent pour herbes.",
+                "definition_en": "Very fine cut, often for herbs."
+            },
+            {
+                "term_id": "METRO-GLOS-003",
+                "term_fr": "Julienne",
+                "term_en": "Julienne",
+                "definition_fr": "Bâtonnets fins (5 cm × 1–2 mm).",
+                "definition_en": "Thin sticks (5 cm × 1–2 mm)."
+            },
+            {
+                "term_id": "METRO-GLOS-004",
+                "term_fr": "Mirepoix",
+                "term_en": "Mirepoix",
+                "definition_fr": "Dés grossiers pour fonds et sauces.",
+                "definition_en": "Coarse dice for stocks and sauces."
+            },
+            {
+                "term_id": "METRO-GLOS-005",
+                "term_fr": "Paysanne",
+                "term_en": "Paysanne",
+                "definition_fr": "Découpe en losanges ou triangles.",
+                "definition_en": "Cut into diamonds or triangles."
+            },
+            {
+                "term_id": "METRO-GLOS-006",
+                "term_fr": "Émincer",
+                "term_en": "Émincer (to slice thinly)",
+                "definition_fr": "Trancher finement.",
+                "definition_en": "Slice finely."
+            },
+            {
+                "term_id": "METRO-GLOS-007",
+                "term_fr": "Tournage",
+                "term_en": "Tournage (turning)",
+                "definition_fr": "Légumes tournés en forme ovoïde.",
+                "definition_en": "Vegetables turned into an oval shape."
+            },
+            {
+                "term_id": "METRO-GLOS-008",
+                "term_fr": "Chiffonnade",
+                "term_en": "Chiffonnade",
+                "definition_fr": "Feuilles roulées puis tranchées.",
+                "definition_en": "Leaves rolled up then sliced."
+            },
+            {
+                "term_id": "METRO-GLOS-009",
+                "term_fr": "Concasser",
+                "term_en": "Concasser (to crush / rough-chop)",
+                "definition_fr": "Hacher grossièrement.",
+                "definition_en": "Chop coarsely."
+            },
+            {
+                "term_id": "METRO-GLOS-010",
+                "term_fr": "Sifflet",
+                "term_en": "Sifflet (bias cut)",
+                "definition_fr": "Découpe oblique.",
+                "definition_en": "Oblique cut."
+            },
+            {
+                "term_id": "METRO-GLOS-011",
+                "term_fr": "Taillage bâtonnets",
+                "term_en": "Bâtonnet cut",
+                "definition_fr": "Plus épais que julienne.",
+                "definition_en": "Thicker than julienne."
+            },
+            {
+                "term_id": "METRO-GLOS-012",
+                "term_fr": "Garniture aromatique",
+                "term_en": "Garniture aromatique (aromatic garnish)",
+                "definition_fr": "Ensemble de légumes découpés.",
+                "definition_en": "Set of cut vegetables."
+            },
+            {
+                "term_id": "METRO-GLOS-013",
+                "term_fr": "Biseau",
+                "term_en": "Biseau (bevel cut)",
+                "definition_fr": "Coupe diagonale.",
+                "definition_en": "Diagonal cut."
+            },
+            {
+                "term_id": "METRO-GLOS-014",
+                "term_fr": "Rondelles",
+                "term_en": "Rondelles (rounds)",
+                "definition_fr": "Découpe circulaire.",
+                "definition_en": "Circular cut."
+            },
+            {
+                "term_id": "METRO-GLOS-015",
+                "term_fr": "Cubes",
+                "term_en": "Cubes (dice)",
+                "definition_fr": "Découpe régulière en cubes.",
+                "definition_en": "Regular cut into cubes."
+            },
+            {
+                "term_id": "METRO-GLOS-016",
+                "term_fr": "Fileter",
+                "term_en": "Fileter (to fillet)",
+                "definition_fr": "Découper en filets.",
+                "definition_en": "Cut into fillets."
+            }
+        ],
+        "source": "METRO France (metro.fr)"
+    },
+    {
+        "category_fr": "Modes de Cuisson Classiques & Modernes",
+        "category_en": "Classic & Modern Cooking Methods",
+        "term_count": 16,
+        "terms": [
+            {
+                "term_id": "METRO-GLOS-017",
+                "term_fr": "Pocher",
+                "term_en": "Pocher (to poach)",
+                "definition_fr": "Cuire sans ébullition.",
+                "definition_en": "Cook without boiling."
+            },
+            {
+                "term_id": "METRO-GLOS-018",
+                "term_fr": "Frire",
+                "term_en": "Frire (to deep-fry)",
+                "definition_fr": "Cuisson dans l'huile.",
+                "definition_en": "Cooking in oil."
+            },
+            {
+                "term_id": "METRO-GLOS-019",
+                "term_fr": "Blanchir",
+                "term_en": "Blanchir (to blanch)",
+                "definition_fr": "Cuire brièvement puis refroidir.",
+                "definition_en": "Cook briefly then cool."
+            },
+            {
+                "term_id": "METRO-GLOS-020",
+                "term_fr": "Rôtir",
+                "term_en": "Rôtir (to roast)",
+                "definition_fr": "Cuire au four à chaleur sèche.",
+                "definition_en": "Cook in the oven with dry heat."
+            },
+            {
+                "term_id": "METRO-GLOS-021",
+                "term_fr": "Griller",
+                "term_en": "Griller (to grill)",
+                "definition_fr": "Cuire sur grill/barbecue.",
+                "definition_en": "Cook on a grill/barbecue."
+            },
+            {
+                "term_id": "METRO-GLOS-022",
+                "term_fr": "Sauter",
+                "term_en": "Sauter (to sauté)",
+                "definition_fr": "Cuire rapidement à feu vif.",
+                "definition_en": "Cook quickly over high heat."
+            },
+            {
+                "term_id": "METRO-GLOS-023",
+                "term_fr": "Braiser",
+                "term_en": "Braiser (to braise)",
+                "definition_fr": "Cuire longuement avec liquide.",
+                "definition_en": "Cook slowly with liquid."
+            },
+            {
+                "term_id": "METRO-GLOS-024",
+                "term_fr": "Confire",
+                "term_en": "Confire (to confit)",
+                "definition_fr": "Cuire dans sucre ou graisse.",
+                "definition_en": "Cook in sugar or fat."
+            },
+            {
+                "term_id": "METRO-GLOS-025",
+                "term_fr": "Fumer",
+                "term_en": "Fumer (to smoke)",
+                "definition_fr": "Aromatiser avec fumée.",
+                "definition_en": "Flavour with smoke."
+            },
+            {
+                "term_id": "METRO-GLOS-026",
+                "term_fr": "Sous-vide",
+                "term_en": "Sous-vide",
+                "definition_fr": "Cuisson basse température en sachet.",
+                "definition_en": "Low-temperature cooking in a pouch."
+            },
+            {
+                "term_id": "METRO-GLOS-027",
+                "term_fr": "Vapeur",
+                "term_en": "Vapeur (steaming)",
+                "definition_fr": "Cuisson vapeur douce.",
+                "definition_en": "Gentle steam cooking."
+            },
+            {
+                "term_id": "METRO-GLOS-028",
+                "term_fr": "Poêle",
+                "term_en": "Poêle (pan cooking)",
+                "definition_fr": "Cuisson directe à la poêle.",
+                "definition_en": "Direct cooking in a frying pan."
+            },
+            {
+                "term_id": "METRO-GLOS-029",
+                "term_fr": "Étuver",
+                "term_en": "Étuver (to sweat / stew)",
+                "definition_fr": "Cuire dans récipient couvert.",
+                "definition_en": "Cook in a covered container."
+            },
+            {
+                "term_id": "METRO-GLOS-030",
+                "term_fr": "Snacker",
+                "term_en": "Snacker (to sear)",
+                "definition_fr": "Cuisson très rapide.",
+                "definition_en": "Very quick cooking."
+            },
+            {
+                "term_id": "METRO-GLOS-031",
+                "term_fr": "Caraméliser",
+                "term_en": "Caraméliser (to caramelise)",
+                "definition_fr": "Chauffer sucre pour brunissement.",
+                "definition_en": "Heat sugar until it browns."
+            },
+            {
+                "term_id": "METRO-GLOS-032",
+                "term_fr": "Réduire",
+                "term_en": "Réduire (to reduce)",
+                "definition_fr": "Concentrer liquide.",
+                "definition_en": "Concentrate a liquid.",
+                "also_in_category_fr": "Sauces, Fonds, Liaisons & Préparations Liquides"
+            }
+        ],
+        "source": "METRO France (metro.fr)"
+    },
+    {
+        "category_fr": "Pâtisserie Avancée & Techniques Sucrées",
+        "category_en": "Advanced Pastry & Sweet Techniques",
+        "term_count": 18,
+        "terms": [
+            {
+                "term_id": "METRO-GLOS-033",
+                "term_fr": "Macaronner",
+                "term_en": "Macaronner (macaronage)",
+                "definition_fr": "Technique pour macarons.",
+                "definition_en": "Technique for macarons."
+            },
+            {
+                "term_id": "METRO-GLOS-034",
+                "term_fr": "Serrer",
+                "term_en": "Serrer (to tighten egg whites)",
+                "definition_fr": "Stabiliser blancs.",
+                "definition_en": "Stabilise egg whites."
+            },
+            {
+                "term_id": "METRO-GLOS-035",
+                "term_fr": "Foisonner",
+                "term_en": "Foisonner (to aerate)",
+                "definition_fr": "Incorporer air.",
+                "definition_en": "Incorporate air."
+            },
+            {
+                "term_id": "METRO-GLOS-036",
+                "term_fr": "Tempérer",
+                "term_en": "Tempérer (to temper)",
+                "definition_fr": "Chauffer/préserver chocolat.",
+                "definition_en": "Heat/preserve chocolate."
+            },
+            {
+                "term_id": "METRO-GLOS-037",
+                "term_fr": "Ruban",
+                "term_en": "Ruban (ribbon stage)",
+                "definition_fr": "Texture œufs-sucre fouettés.",
+                "definition_en": "Texture of whisked eggs and sugar."
+            },
+            {
+                "term_id": "METRO-GLOS-038",
+                "term_fr": "Blanchir (pâtisserie)",
+                "term_en": "Blanchir (pastry: to cream eggs and sugar)",
+                "definition_fr": "Fouetter œufs + sucre.",
+                "definition_en": "Whisk eggs + sugar."
+            },
+            {
+                "term_id": "METRO-GLOS-039",
+                "term_fr": "Apprêt",
+                "term_en": "Apprêt (proofing)",
+                "definition_fr": "Repos des pâtes levées.",
+                "definition_en": "Resting of leavened doughs."
+            },
+            {
+                "term_id": "METRO-GLOS-040",
+                "term_fr": "Caramélisation",
+                "term_en": "Caramélisation (caramelisation)",
+                "definition_fr": "Réaction du sucre chauffé.",
+                "definition_en": "Reaction of heated sugar."
+            },
+            {
+                "term_id": "METRO-GLOS-041",
+                "term_fr": "Crémage",
+                "term_en": "Crémage (creaming)",
+                "definition_fr": "Beurre + sucre fouettés.",
+                "definition_en": "Butter + sugar whipped together."
+            },
+            {
+                "term_id": "METRO-GLOS-042",
+                "term_fr": "Appareil",
+                "term_en": "Appareil (base mixture)",
+                "definition_fr": "Mélange de base.",
+                "definition_en": "Base mixture."
+            },
+            {
+                "term_id": "METRO-GLOS-043",
+                "term_fr": "Dorure",
+                "term_en": "Dorure (egg wash)",
+                "definition_fr": "Jaune d’œuf appliqué.",
+                "definition_en": "Egg yolk applied."
+            },
+            {
+                "term_id": "METRO-GLOS-044",
+                "term_fr": "Pâte levée",
+                "term_en": "Pâte levée (leavened dough)",
+                "definition_fr": "Pâte avec levure.",
+                "definition_en": "Dough made with yeast."
+            },
+            {
+                "term_id": "METRO-GLOS-045",
+                "term_fr": "Pâte levée feuilletée",
+                "term_en": "Pâte levée feuilletée (laminated yeast dough)",
+                "definition_fr": "Type croissant.",
+                "definition_en": "Croissant type."
+            },
+            {
+                "term_id": "METRO-GLOS-046",
+                "term_fr": "Tourage",
+                "term_en": "Tourage (lamination)",
+                "definition_fr": "Feuilletage.",
+                "definition_en": "Puff pastry folding."
+            },
+            {
+                "term_id": "METRO-GLOS-047",
+                "term_fr": "Montage",
+                "term_en": "Montage (assembly)",
+                "definition_fr": "Assemblage dessert.",
+                "definition_en": "Assembling a dessert."
+            },
+            {
+                "term_id": "METRO-GLOS-048",
+                "term_fr": "Mousse",
+                "term_en": "Mousse",
+                "definition_fr": "Préparation aérienne.",
+                "definition_en": "Airy preparation."
+            },
+            {
+                "term_id": "METRO-GLOS-049",
+                "term_fr": "Gélification",
+                "term_en": "Gélification (gelling)",
+                "definition_fr": "Prise en gel.",
+                "definition_en": "Setting into a gel."
+            },
+            {
+                "term_id": "METRO-GLOS-050",
+                "term_fr": "Nappage",
+                "term_en": "Nappage (glaze)",
+                "definition_fr": "Couche brillante.",
+                "definition_en": "Glossy coating."
+            }
+        ],
+        "source": "METRO France (metro.fr)"
+    },
+    {
+        "category_fr": "Sauces, Fonds, Liaisons & Préparations Liquides",
+        "category_en": "Sauces, Stocks, Thickeners & Liquid Preparations",
+        "term_count": 14,
+        "terms": [
+            {
+                "term_id": "METRO-GLOS-051",
+                "term_fr": "Fond brun",
+                "term_en": "Fond brun (brown stock)",
+                "definition_fr": "Base sauce brune.",
+                "definition_en": "Base for brown sauce."
+            },
+            {
+                "term_id": "METRO-GLOS-052",
+                "term_fr": "Fond blanc",
+                "term_en": "Fond blanc (white stock)",
+                "definition_fr": "Base sauce blanche.",
+                "definition_en": "Base for white sauce."
+            },
+            {
+                "term_id": "METRO-GLOS-053",
+                "term_fr": "Velouté",
+                "term_en": "Velouté (sauce)",
+                "definition_fr": "Fond blanc + roux blond.",
+                "definition_en": "White stock + blond roux."
+            },
+            {
+                "term_id": "METRO-GLOS-054",
+                "term_fr": "Roux",
+                "term_en": "Roux",
+                "definition_fr": "Beurre + farine cuits.",
+                "definition_en": "Butter + flour cooked together."
+            },
+            {
+                "term_id": "METRO-GLOS-055",
+                "term_fr": "Dégraisser",
+                "term_en": "Dégraisser (to skim fat)",
+                "definition_fr": "Retirer graisse d’une sauce.",
+                "definition_en": "Remove fat from a sauce."
+            },
+            {
+                "term_id": "METRO-GLOS-056",
+                "term_fr": "Clarifier",
+                "term_en": "Clarifier (to clarify)",
+                "definition_fr": "Rendre limpide.",
+                "definition_en": "Make clear."
+            },
+            {
+                "term_id": "METRO-GLOS-057",
+                "term_fr": "Déglacer",
+                "term_en": "Déglacer (to deglaze)",
+                "definition_fr": "Dissoudre sucs cuisson.",
+                "definition_en": "Dissolve cooking juices."
+            },
+            {
+                "term_id": "METRO-GLOS-058",
+                "term_fr": "Montage au beurre",
+                "term_en": "Montage au beurre (mounting with butter)",
+                "definition_fr": "Ajouter beurre froid.",
+                "definition_en": "Add cold butter."
+            },
+            {
+                "term_id": "METRO-GLOS-059",
+                "term_fr": "Chinoiser",
+                "term_en": "Chinoiser (to strain)",
+                "definition_fr": "Passer à travers chinois.",
+                "definition_en": "Pass through a chinois."
+            },
+            {
+                "term_id": "METRO-GLOS-060",
+                "term_fr": "Liaison",
+                "term_en": "Liaison (thickening)",
+                "definition_fr": "Épaississement sauce.",
+                "definition_en": "Thickening a sauce."
+            },
+            {
+                "term_id": "METRO-GLOS-061",
+                "term_fr": "Beurre manié",
+                "term_en": "Beurre manié",
+                "definition_fr": "Beurre + farine non cuits.",
+                "definition_en": "Butter + flour, uncooked."
+            },
+            {
+                "term_id": "METRO-GLOS-062",
+                "term_fr": "Sucs",
+                "term_en": "Sucs (fond / pan drippings)",
+                "definition_fr": "Particules caramélisées.",
+                "definition_en": "Caramelised particles."
+            },
+            {
+                "term_id": "METRO-GLOS-063",
+                "term_fr": "Gastrique",
+                "term_en": "Gastrique (gastrique)",
+                "definition_fr": "Sucre + vinaigre réduit.",
+                "definition_en": "Reduced sugar + vinegar."
+            },
+            {
+                "term_id": "METRO-GLOS-064",
+                "term_fr": "Court-bouillon",
+                "term_en": "Court-bouillon",
+                "definition_fr": "Liquide aromatique pour pochage.",
+                "definition_en": "Aromatic liquid for poaching."
+            }
+        ],
+        "source": "METRO France (metro.fr)"
+    },
+    {
+        "category_fr": "Viandes, Volaille, Charcuterie & Poissons",
+        "category_en": "Meat, Poultry, Charcuterie & Fish",
+        "term_count": 15,
+        "terms": [
+            {
+                "term_id": "METRO-GLOS-065",
+                "term_fr": "Désosser",
+                "term_en": "Désosser (to bone)",
+                "definition_fr": "Retirer os.",
+                "definition_en": "Remove bones."
+            },
+            {
+                "term_id": "METRO-GLOS-066",
+                "term_fr": "Dénerver",
+                "term_en": "Dénerver (to remove sinew)",
+                "definition_fr": "Retirer nerfs.",
+                "definition_en": "Remove sinews."
+            },
+            {
+                "term_id": "METRO-GLOS-067",
+                "term_fr": "Parer",
+                "term_en": "Parer (to trim)",
+                "definition_fr": "Nettoyer et enlever excédents.",
+                "definition_en": "Clean and remove excess."
+            },
+            {
+                "term_id": "METRO-GLOS-068",
+                "term_fr": "Barder",
+                "term_en": "Barder (to bard)",
+                "definition_fr": "Entourer viande de lard.",
+                "definition_en": "Wrap meat in lard."
+            },
+            {
+                "term_id": "METRO-GLOS-069",
+                "term_fr": "Brider",
+                "term_en": "Brider (to truss)",
+                "definition_fr": "Ficeler volaille.",
+                "definition_en": "Tie up poultry."
+            },
+            {
+                "term_id": "METRO-GLOS-070",
+                "term_fr": "Habiller",
+                "term_en": "Habiller (to dress fish)",
+                "definition_fr": "Préparer poisson.",
+                "definition_en": "Prepare fish."
+            },
+            {
+                "term_id": "METRO-GLOS-071",
+                "term_fr": "Lever filet",
+                "term_en": "Lever filet (to fillet a fish)",
+                "definition_fr": "Extraire filets.",
+                "definition_en": "Extract fillets."
+            },
+            {
+                "term_id": "METRO-GLOS-072",
+                "term_fr": "Écailler",
+                "term_en": "Écailler (to scale)",
+                "definition_fr": "Retirer écailles.",
+                "definition_en": "Remove scales."
+            },
+            {
+                "term_id": "METRO-GLOS-073",
+                "term_fr": "Maturation",
+                "term_en": "Maturation (ageing)",
+                "definition_fr": "Repos viande.",
+                "definition_en": "Resting of meat."
+            },
+            {
+                "term_id": "METRO-GLOS-074",
+                "term_fr": "Saigner",
+                "term_en": "Saigner (to bleed)",
+                "definition_fr": "Préparation viande.",
+                "definition_en": "Meat preparation."
+            },
+            {
+                "term_id": "METRO-GLOS-075",
+                "term_fr": "Ficelage",
+                "term_en": "Ficelage (tying)",
+                "definition_fr": "Attacher viande.",
+                "definition_en": "Tie up meat."
+            },
+            {
+                "term_id": "METRO-GLOS-076",
+                "term_fr": "Dégorger",
+                "term_en": "Dégorger (to disgorge / degorge)",
+                "definition_fr": "Faire perdre eau.",
+                "definition_en": "Draw out water."
+            },
+            {
+                "term_id": "METRO-GLOS-077",
+                "term_fr": "Inciser",
+                "term_en": "Inciser (to score)",
+                "definition_fr": "Faire entailles.",
+                "definition_en": "Make incisions."
+            },
+            {
+                "term_id": "METRO-GLOS-078",
+                "term_fr": "Marquer en cuisson",
+                "term_en": "Marquer en cuisson (to start cooking / sear)",
+                "definition_fr": "Démarrer cuisson.",
+                "definition_en": "Start cooking."
+            },
+            {
+                "term_id": "METRO-GLOS-079",
+                "term_fr": "Farce",
+                "term_en": "Farce (stuffing / forcemeat)",
+                "definition_fr": "Préparation viande hachée.",
+                "definition_en": "Minced meat preparation."
+            }
+        ],
+        "source": "METRO France (metro.fr)"
+    },
+    {
+        "category_fr": "Cuisine Moléculaire & Science Culinaire",
+        "category_en": "Molecular Gastronomy & Culinary Science",
+        "term_count": 16,
+        "terms": [
+            {
+                "term_id": "METRO-GLOS-080",
+                "term_fr": "Sphérification",
+                "term_en": "Sphérification (spherification)",
+                "definition_fr": "Formation de billes gélifiées.",
+                "definition_en": "Formation of gelled beads."
+            },
+            {
+                "term_id": "METRO-GLOS-081",
+                "term_fr": "Gélification",
+                "term_en": "Gélification (gelling)",
+                "definition_fr": "Transformation liquide en gel.",
+                "definition_en": "Turning a liquid into a gel."
+            },
+            {
+                "term_id": "METRO-GLOS-082",
+                "term_fr": "Cryo-cuisson",
+                "term_en": "Cryo-cuisson (cryo-cooking)",
+                "definition_fr": "Cuisson azote.",
+                "definition_en": "Cooking with nitrogen."
+            },
+            {
+                "term_id": "METRO-GLOS-083",
+                "term_fr": "Espumas",
+                "term_en": "Espumas",
+                "definition_fr": "Mousses siphon.",
+                "definition_en": "Siphon foams."
+            },
+            {
+                "term_id": "METRO-GLOS-084",
+                "term_fr": "Alginate",
+                "term_en": "Alginate",
+                "definition_fr": "Gélifiant.",
+                "definition_en": "Gelling agent."
+            },
+            {
+                "term_id": "METRO-GLOS-085",
+                "term_fr": "Agar-agar",
+                "term_en": "Agar-agar",
+                "definition_fr": "Gélifiant algues.",
+                "definition_en": "Seaweed-based gelling agent."
+            },
+            {
+                "term_id": "METRO-GLOS-086",
+                "term_fr": "Texturants",
+                "term_en": "Texturants (texturising agents)",
+                "definition_fr": "Agar-agar, xanthane.",
+                "definition_en": "Agar-agar, xanthan."
+            },
+            {
+                "term_id": "METRO-GLOS-087",
+                "term_fr": "Lécithine",
+                "term_en": "Lécithine (lecithin)",
+                "definition_fr": "Émulsifiant.",
+                "definition_en": "Emulsifier."
+            },
+            {
+                "term_id": "METRO-GLOS-088",
+                "term_fr": "Maltodextrine",
+                "term_en": "Maltodextrine (maltodextrin)",
+                "definition_fr": "Texturant.",
+                "definition_en": "Texturising agent."
+            },
+            {
+                "term_id": "METRO-GLOS-089",
+                "term_fr": "Xanthane",
+                "term_en": "Xanthane (xanthan gum)",
+                "definition_fr": "Épaississant.",
+                "definition_en": "Thickener."
+            },
+            {
+                "term_id": "METRO-GLOS-090",
+                "term_fr": "Guar",
+                "term_en": "Guar (guar gum)",
+                "definition_fr": "Épaississant.",
+                "definition_en": "Thickener."
+            },
+            {
+                "term_id": "METRO-GLOS-091",
+                "term_fr": "Déshydratation",
+                "term_en": "Déshydratation (dehydration)",
+                "definition_fr": "Retirer eau.",
+                "definition_en": "Remove water."
+            },
+            {
+                "term_id": "METRO-GLOS-092",
+                "term_fr": "Carboglace",
+                "term_en": "Carboglace (dry ice)",
+                "definition_fr": "Glace carbonique.",
+                "definition_en": "Solid carbon dioxide."
+            },
+            {
+                "term_id": "METRO-GLOS-093",
+                "term_fr": "Siphon",
+                "term_en": "Siphon (cream whipper)",
+                "definition_fr": "Création mousses.",
+                "definition_en": "Making foams."
+            },
+            {
+                "term_id": "METRO-GLOS-094",
+                "term_fr": "Nitro-mousse",
+                "term_en": "Nitro-mousse (nitro foam)",
+                "definition_fr": "Mousse à l’azote.",
+                "definition_en": "Nitrogen foam."
+            },
+            {
+                "term_id": "METRO-GLOS-095",
+                "term_fr": "Émulsions inversées",
+                "term_en": "Émulsions inversées (inverted emulsions)",
+                "definition_fr": "Stabilité eau/huile.",
+                "definition_en": "Water/oil stability."
+            }
+        ],
+        "source": "METRO France (metro.fr)"
+    },
+    {
+        "category_fr": "Dressage, Esthétique & Finitions",
+        "category_en": "Plating, Presentation & Finishing",
+        "term_count": 18,
+        "terms": [
+            {
+                "term_id": "METRO-GLOS-096",
+                "term_fr": "Napper",
+                "term_en": "Napper (to coat)",
+                "definition_fr": "Couvrir légèrement.",
+                "definition_en": "Cover lightly."
+            },
+            {
+                "term_id": "METRO-GLOS-097",
+                "term_fr": "Glacer",
+                "term_en": "Glacer (to glaze)",
+                "definition_fr": "Donner brillance.",
+                "definition_en": "Give shine."
+            },
+            {
+                "term_id": "METRO-GLOS-098",
+                "term_fr": "Quadriller",
+                "term_en": "Quadriller (to crosshatch)",
+                "definition_fr": "Marquage grill.",
+                "definition_en": "Grill marking."
+            },
+            {
+                "term_id": "METRO-GLOS-099",
+                "term_fr": "Zester",
+                "term_en": "Zester (to zest)",
+                "definition_fr": "Prélever zeste.",
+                "definition_en": "Remove the zest."
+            },
+            {
+                "term_id": "METRO-GLOS-100",
+                "term_fr": "Sabayon",
+                "term_en": "Sabayon",
+                "definition_fr": "Mousse chaude.",
+                "definition_en": "Warm foam."
+            },
+            {
+                "term_id": "METRO-GLOS-101",
+                "term_fr": "Miroir",
+                "term_en": "Miroir (mirror glaze)",
+                "definition_fr": "Surface brillante.",
+                "definition_en": "Glossy surface."
+            },
+            {
+                "term_id": "METRO-GLOS-102",
+                "term_fr": "Tamisage",
+                "term_en": "Tamisage (sifting)",
+                "definition_fr": "Retirer grumeaux.",
+                "definition_en": "Remove lumps."
+            },
+            {
+                "term_id": "METRO-GLOS-103",
+                "term_fr": "Finition",
+                "term_en": "Finition (finishing)",
+                "definition_fr": "Dernière touche.",
+                "definition_en": "Final touch."
+            },
+            {
+                "term_id": "METRO-GLOS-104",
+                "term_fr": "Réduction nappante",
+                "term_en": "Réduction nappante (coating reduction)",
+                "definition_fr": "Texture idéale.",
+                "definition_en": "Ideal texture."
+            },
+            {
+                "term_id": "METRO-GLOS-105",
+                "term_fr": "Brunoiser pour décor",
+                "term_en": "Brunoiser pour décor (decorative brunoise)",
+                "definition_fr": "Découpe nette.",
+                "definition_en": "Clean cut."
+            },
+            {
+                "term_id": "METRO-GLOS-106",
+                "term_fr": "Bain-marie froid",
+                "term_en": "Bain-marie froid (ice bath)",
+                "definition_fr": "Refroidissement contrôlé.",
+                "definition_en": "Controlled cooling."
+            },
+            {
+                "term_id": "METRO-GLOS-107",
+                "term_fr": "Dressage",
+                "term_en": "Dressage (plating)",
+                "definition_fr": "Disposition visuelle.",
+                "definition_en": "Visual arrangement."
+            },
+            {
+                "term_id": "METRO-GLOS-108",
+                "term_fr": "Émincer décoratif",
+                "term_en": "Émincer décoratif (decorative slicing)",
+                "definition_fr": "Coupes artistiques.",
+                "definition_en": "Artistic cuts."
+            },
+            {
+                "term_id": "METRO-GLOS-109",
+                "term_fr": "Rosace",
+                "term_en": "Rosace (rosette)",
+                "definition_fr": "Disposition en cercle.",
+                "definition_en": "Circular arrangement."
+            },
+            {
+                "term_id": "METRO-GLOS-110",
+                "term_fr": "Coulis",
+                "term_en": "Coulis",
+                "definition_fr": "Sauce fluide.",
+                "definition_en": "Fluid sauce."
+            },
+            {
+                "term_id": "METRO-GLOS-111",
+                "term_fr": "Compotée",
+                "term_en": "Compotée (compote)",
+                "definition_fr": "Cuisson lente fruits.",
+                "definition_en": "Slow cooking of fruit."
+            },
+            {
+                "term_id": "METRO-GLOS-112",
+                "term_fr": "Marmelade",
+                "term_en": "Marmelade (marmalade)",
+                "definition_fr": "Préparation épaisse.",
+                "definition_en": "Thick preparation."
+            },
+            {
+                "term_id": "METRO-GLOS-113",
+                "term_fr": "Gelée",
+                "term_en": "Gelée (jelly)",
+                "definition_fr": "Préparation translucide.",
+                "definition_en": "Translucent preparation."
+            }
+        ],
+        "source": "METRO France (metro.fr)"
+    },
+    {
+        "category_fr": "Ustensiles de Cuisine",
+        "category_en": "Kitchen Utensils",
+        "term_count": 15,
+        "terms": [
+            {
+                "term_id": "METRO-GLOS-114",
+                "term_fr": "Casserole",
+                "term_en": "Casserole (saucepan)",
+                "definition_fr": "Récipient à fond haut.",
+                "definition_en": "High-sided pot."
+            },
+            {
+                "term_id": "METRO-GLOS-115",
+                "term_fr": "Poêle",
+                "term_en": "Poêle (frying pan)",
+                "definition_fr": "Cuisson rapide.",
+                "definition_en": "Quick cooking."
+            },
+            {
+                "term_id": "METRO-GLOS-116",
+                "term_fr": "Sauteuse",
+                "term_en": "Sauteuse (sauté pan)",
+                "definition_fr": "Poêle bords hauts.",
+                "definition_en": "High-sided frying pan."
+            },
+            {
+                "term_id": "METRO-GLOS-117",
+                "term_fr": "Fouet",
+                "term_en": "Fouet (whisk)",
+                "definition_fr": "Mélanger/émulsionner.",
+                "definition_en": "Mix/emulsify."
+            },
+            {
+                "term_id": "METRO-GLOS-118",
+                "term_fr": "Spatule",
+                "term_en": "Spatule (spatula)",
+                "definition_fr": "Mélanger.",
+                "definition_en": "Mix."
+            },
+            {
+                "term_id": "METRO-GLOS-119",
+                "term_fr": "Maryse",
+                "term_en": "Maryse (rubber spatula)",
+                "definition_fr": "Racler.",
+                "definition_en": "Scrape."
+            },
+            {
+                "term_id": "METRO-GLOS-120",
+                "term_fr": "Couteau d’office",
+                "term_en": "Couteau d'office (paring knife)",
+                "definition_fr": "Petit couteau polyvalent.",
+                "definition_en": "Small all-purpose knife."
+            },
+            {
+                "term_id": "METRO-GLOS-121",
+                "term_fr": "Couteau éminceur",
+                "term_en": "Couteau éminceur (slicing / chef's knife)",
+                "definition_fr": "Grand couteau à émincer.",
+                "definition_en": "Large knife for slicing."
+            },
+            {
+                "term_id": "METRO-GLOS-122",
+                "term_fr": "Mandoline",
+                "term_en": "Mandoline",
+                "definition_fr": "Tranchage fin.",
+                "definition_en": "Fine slicing."
+            },
+            {
+                "term_id": "METRO-GLOS-123",
+                "term_fr": "Chinois",
+                "term_en": "Chinois (fine conical strainer)",
+                "definition_fr": "Passoire fine.",
+                "definition_en": "Fine strainer."
+            },
+            {
+                "term_id": "METRO-GLOS-124",
+                "term_fr": "Cocotte en fonte",
+                "term_en": "Cocotte en fonte (cast-iron casserole)",
+                "definition_fr": "Cuisson lente.",
+                "definition_en": "Slow cooking."
+            },
+            {
+                "term_id": "METRO-GLOS-125",
+                "term_fr": "Pince de cuisine",
+                "term_en": "Pince de cuisine (kitchen tongs)",
+                "definition_fr": "Saisir aliments.",
+                "definition_en": "Grip food."
+            },
+            {
+                "term_id": "METRO-GLOS-126",
+                "term_fr": "Râpe microplane",
+                "term_en": "Râpe microplane (Microplane grater)",
+                "definition_fr": "Râpe fine.",
+                "definition_en": "Fine grater."
+            },
+            {
+                "term_id": "METRO-GLOS-127",
+                "term_fr": "Thermomètre sonde",
+                "term_en": "Thermomètre sonde (probe thermometer)",
+                "definition_fr": "Mesure température.",
+                "definition_en": "Temperature measurement."
+            },
+            {
+                "term_id": "METRO-GLOS-128",
+                "term_fr": "Balance de précision",
+                "term_en": "Balance de précision (precision scale)",
+                "definition_fr": "Mesure exacte.",
+                "definition_en": "Exact measurement."
+            }
+        ],
+        "source": "METRO France (metro.fr)"
+    },
+    {
+        "category_fr": "Types de Plats & Préparations",
+        "category_en": "Dish Types & Preparations",
+        "term_count": 14,
+        "terms": [
+            {
+                "term_id": "METRO-GLOS-129",
+                "term_fr": "Velouté",
+                "term_en": "Velouté (soup)",
+                "definition_fr": "Soupe onctueuse.",
+                "definition_en": "Smooth, creamy soup."
+            },
+            {
+                "term_id": "METRO-GLOS-130",
+                "term_fr": "Bisque",
+                "term_en": "Bisque",
+                "definition_fr": "Soupe crémeuse à base de crustacés.",
+                "definition_en": "Creamy soup made from shellfish."
+            },
+            {
+                "term_id": "METRO-GLOS-131",
+                "term_fr": "Consommé",
+                "term_en": "Consommé",
+                "definition_fr": "Bouillon clair.",
+                "definition_en": "Clear broth."
+            },
+            {
+                "term_id": "METRO-GLOS-132",
+                "term_fr": "Gratin",
+                "term_en": "Gratin",
+                "definition_fr": "Plat gratiné.",
+                "definition_en": "Dish browned on top."
+            },
+            {
+                "term_id": "METRO-GLOS-133",
+                "term_fr": "Ragoût",
+                "term_en": "Ragoût (stew)",
+                "definition_fr": "Cuisson lente en sauce.",
+                "definition_en": "Slow cooking in sauce."
+            },
+            {
+                "term_id": "METRO-GLOS-134",
+                "term_fr": "Tartare",
+                "term_en": "Tartare",
+                "definition_fr": "Préparation crue hachée.",
+                "definition_en": "Raw chopped preparation."
+            },
+            {
+                "term_id": "METRO-GLOS-135",
+                "term_fr": "Sauté",
+                "term_en": "Sauté (sautéed dish)",
+                "definition_fr": "Cuisson rapide à la poêle.",
+                "definition_en": "Quick cooking in a frying pan."
+            },
+            {
+                "term_id": "METRO-GLOS-136",
+                "term_fr": "Mijoté",
+                "term_en": "Mijoté (simmered dish)",
+                "definition_fr": "Cuisson douce et longue.",
+                "definition_en": "Gentle, slow cooking."
+            },
+            {
+                "term_id": "METRO-GLOS-137",
+                "term_fr": "Foie gras torchon",
+                "term_en": "Foie gras torchon",
+                "definition_fr": "Foie gras cuit au torchon.",
+                "definition_en": "Foie gras cooked in a cloth."
+            },
+            {
+                "term_id": "METRO-GLOS-138",
+                "term_fr": "Terrine",
+                "term_en": "Terrine",
+                "definition_fr": "Préparation moulée.",
+                "definition_en": "Moulded preparation."
+            },
+            {
+                "term_id": "METRO-GLOS-139",
+                "term_fr": "Carpaccio",
+                "term_en": "Carpaccio",
+                "definition_fr": "Tranches fines crues.",
+                "definition_en": "Thin raw slices."
+            },
+            {
+                "term_id": "METRO-GLOS-140",
+                "term_fr": "Soufflé",
+                "term_en": "Soufflé",
+                "definition_fr": "Préparation gonflée au four.",
+                "definition_en": "Preparation that rises in the oven."
+            },
+            {
+                "term_id": "METRO-GLOS-141",
+                "term_fr": "Cassoulet",
+                "term_en": "Cassoulet",
+                "definition_fr": "Haricots + viandes.",
+                "definition_en": "Beans + meats."
+            },
+            {
+                "term_id": "METRO-GLOS-142",
+                "term_fr": "Chutney",
+                "term_en": "Chutney",
+                "definition_fr": "Condiment sucré-acide.",
+                "definition_en": "Sweet-and-sour condiment."
+            }
+        ],
+        "source": "METRO France (metro.fr)"
+    },
+    {
+        "category_fr": "Boulangerie, Viennoiserie & Levains",
+        "category_en": "Bread Baking, Viennoiserie & Sourdough",
+        "term_count": 10,
+        "terms": [
+            {
+                "term_id": "METRO-GLOS-143",
+                "term_fr": "Pétrissage",
+                "term_en": "Pétrissage (kneading)",
+                "definition_fr": "Transformation gluten.",
+                "definition_en": "Gluten development."
+            },
+            {
+                "term_id": "METRO-GLOS-144",
+                "term_fr": "Pointage",
+                "term_en": "Pointage (bulk fermentation)",
+                "definition_fr": "Repos 1ère fermentation.",
+                "definition_en": "Rest during the first fermentation."
+            },
+            {
+                "term_id": "METRO-GLOS-145",
+                "term_fr": "Dégazage",
+                "term_en": "Dégazage (degassing / knocking back)",
+                "definition_fr": "Expulsion CO₂.",
+                "definition_en": "Release of CO₂."
+            },
+            {
+                "term_id": "METRO-GLOS-146",
+                "term_fr": "Façonnage",
+                "term_en": "Façonnage (shaping)",
+                "definition_fr": "Mise en forme.",
+                "definition_en": "Shaping."
+            },
+            {
+                "term_id": "METRO-GLOS-147",
+                "term_fr": "Grigne",
+                "term_en": "Grigne (scoring / ear)",
+                "definition_fr": "Incisions du pain.",
+                "definition_en": "Incisions on bread."
+            },
+            {
+                "term_id": "METRO-GLOS-148",
+                "term_fr": "Levain dur",
+                "term_en": "Levain dur (stiff sourdough starter)",
+                "definition_fr": "Levain ferme.",
+                "definition_en": "Firm starter."
+            },
+            {
+                "term_id": "METRO-GLOS-149",
+                "term_fr": "Levain liquide",
+                "term_en": "Levain liquide (liquid sourdough starter)",
+                "definition_fr": "Version fluide.",
+                "definition_en": "Fluid version."
+            },
+            {
+                "term_id": "METRO-GLOS-150",
+                "term_fr": "Apprêt",
+                "term_en": "Apprêt (final proof)",
+                "definition_fr": "2e fermentation.",
+                "definition_en": "Second fermentation."
+            },
+            {
+                "term_id": "METRO-GLOS-151",
+                "term_fr": "Caramélisation de la croûte",
+                "term_en": "Caramélisation de la croûte (crust browning)",
+                "definition_fr": "Réaction Maillard.",
+                "definition_en": "Maillard reaction."
+            },
+            {
+                "term_id": "METRO-GLOS-152",
+                "term_fr": "Tourage",
+                "term_en": "Tourage (lamination)",
+                "definition_fr": "Laminage beurre/pâte.",
+                "definition_en": "Laminating butter/dough."
+            }
+        ],
+        "source": "METRO France (metro.fr)"
+    }
+]
